@@ -4,7 +4,7 @@ This repository contains my solutions to the coding problems from the #StriversS
 
 ## Table of Contents
 
-- [Problem Statements](#problem-statements)
+- [Problem Statements] "https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge"
 - [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
